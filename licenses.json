@@ -1,7 +1,7 @@
 {
   "valid_licenses": [
     {
-      "key": "PREMIUM-2024-ABC123",
+      "key": "MYNEWKEY-2025-XYZ999",
       "type": "premium",
       "created_date": "2024-01-15",
       "expires_date": "2026-12-31",
@@ -9,7 +9,7 @@
       "max_users": 1
     },
     {
-      "key": "BASIC-2024-XYZ789",
+      "key": "",
       "type": "basic",
       "created_date": "2024-01-20",
       "expires_date": "2026-06-30",
@@ -17,7 +17,7 @@
       "max_users": 1
     },
     {
-      "key": "STANDARD-2025-NEW456",
+      "key": "",
       "type": "standard",
       "created_date": "2025-07-30",
       "expires_date": "2027-12-31",
