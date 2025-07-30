@@ -15,6 +15,14 @@
       "expires_date": "2026-06-30",
       "active": true,
       "max_users": 1
+    },
+    {
+      "key": "STANDARD-2025-NEW456",
+      "type": "standard",
+      "created_date": "2025-07-30",
+      "expires_date": "2027-12-31",
+      "active": true,
+      "max_users": 2
     }
   ]
 }
