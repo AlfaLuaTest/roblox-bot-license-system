@@ -2,12 +2,19 @@
   "registered_users": [
     {
       "license_key": "PREMIUM-2024-ABC123",
-      "hwid": "HWID-016682CB-93DC-40",
-      "username": "Premıum Store",
-      "register_date": "2024-01-16T10:30:00Z",
-      "last_login": "2024-01-30T15:45:00Z",
-      "login_count": 3,
-      "ip_address": "212.64.219.39"
+      "hwid": "HWID-B45F67E89A12CD34EF56"
+    },
+    {
+      "license_key": "BASIC-2024-XYZ789", 
+      "hwid": "HWID-789ABCDEF01234568901A"
+    },
+    {
+      "license_key": "STANDARD-2025-NEW456",
+      "hwid": "HWID-456DEF789ABC012345678"
+    },
+    {
+      "license_key": "STANDARD-2025-NEW456",
+      "hwid": "HWID-789GHI012JKL345678901"
     }
   ]
 }
