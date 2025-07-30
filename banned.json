@@ -1,9 +1,9 @@
 {
   "hwid_bans": [
     {
-      "hwid": "AMD64-BANNED-123456",
+      "hwid": "HWID-6A42243C3338EF5579F42829",
       "reason": "Violation of terms",
-      "ban_date": "2024-01-20T12:00:00Z",
+      "ban_date": "2026-01-20T12:00:00Z",
       "banned": true
     }
   ],
