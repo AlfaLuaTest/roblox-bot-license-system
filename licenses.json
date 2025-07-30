@@ -4,15 +4,15 @@
       "key": "PREMIUM-2024-ABC123",
       "type": "premium",
       "created_date": "2024-01-15",
-      "expires_date": "2024-12-31",
+      "expires_date": "2026-12-31",
       "active": true,
       "max_users": 1
     },
     {
       "key": "BASIC-2024-XYZ789",
-      "type": "basic", 
+      "type": "basic",
       "created_date": "2024-01-20",
-      "expires_date": "2024-06-30",
+      "expires_date": "2026-06-30",
       "active": true,
       "max_users": 1
     }
