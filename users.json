@@ -1,20 +1,48 @@
 {
   "registered_users": [
     {
-      "license_key": "MYNEWKEY-2025-XYZ999",
-      "hwid": "HWID-6A42243C3338EF5579F42829"
+      "license_key": "",
+      "hwid": ""
     },
     {
-      "license_key": "BASIC-2024-XYZ789", 
-      "hwid": "HWID-789ABCDEF01234568901A"
+      "license_key": "",
+      "hwid": ""
     },
     {
-      "license_key": "STANDARD-2025-NEW456",
-      "hwid": "HWID-456DEF789ABC012345678"
+      "license_key": "",
+      "hwid": ""
     },
     {
-      "license_key": "STANDARD-2025-NEW456",
-      "hwid": "HWID-789GHI012JKL345678901"
+      "license_key": "",
+      "hwid": ""
+    },
+    {
+      "license_key": "",
+      "hwid": ""
+    },
+    {
+      "license_key": "",
+      "hwid": ""
+    },
+    {
+      "license_key": "",
+      "hwid": ""
+    },
+    {
+      "license_key": "",
+      "hwid": ""
+    },
+    {
+      "license_key": "",
+      "hwid": ""
+    },
+    {
+      "license_key": "",
+      "hwid": ""
+    },
+    {
+      "license_key": "",
+      "hwid": ""
     }
   ]
 }
