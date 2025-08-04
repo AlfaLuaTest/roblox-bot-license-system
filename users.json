@@ -1,7 +1,7 @@
 {
   "registered_users": [
     {
-      "license_key": "PRM-2025-ABC111",
+      "license_key": "",
       "hwid": ""
     },
     {
@@ -46,5 +46,6 @@
     }
   ]
 }
+
 
 
