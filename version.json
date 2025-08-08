@@ -1,7 +1,8 @@
 {
   "latest_version": "2.2.1",
-  "download_url": "https://github.com/AlfaLuaTest/roblox-bot-license-system/releases/download/v2.2.0/bot.exe",
-  "force_update": false,
+  "download_url": "...",
+  "force_update": true,
   "update_message": "🔥 Yeni Özellikler:\n• Paket Yükleyici.py ile entegre edildi\n• HWID sistemi düzenlendi\n• Geliştirilmiş cookie yönetimi\n• Hata düzeltmeleri\n\n💡 Çeşitli Crypto Hatalari Giderildi!"
 
 }
+
