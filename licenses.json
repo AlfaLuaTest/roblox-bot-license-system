@@ -4,7 +4,7 @@
       "key": "PRM-2025-ABC112",
       "type": "premium",
       "created_date": "2025-08-02",
-      "expires_date": "3031-12-31",
+      "expires_date": "99999-12-31",
       "active": true,
       "max_users": 1
     },
