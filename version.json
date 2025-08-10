@@ -2,8 +2,9 @@
   "latest_version": "3.0.0",
   "download_url": "https://www.mediafire.com/file/48gccvdqlb8l3fw/Roblox_Otomasyon_Botu__Favori_%252B_Takip_%252B_Item.rar/file",
   "force_update": true,
-  "update_message": "🚀 **3.0.0-BETA Güncellemesi**\n\n🔥 **Yeni Özellikler:**\n• 📦 Paket Yükleyici iyileştirildi.\n• 🌐 Webhook Sistemi Proxy altyapısına geçirildi.\n• 🎫 Ciddi durumlarda otomatik destek bileti açma özelliği eklendi.\n• 🛠️ Genel hata düzeltmeleri yapıldı.\n\n💡 **Not:** Webhook hatası giderildi ancak henüz test edilmedi. Bu nedenle bazı kullanıcılar hata alabilir.\n⚠️ Bu sürüm **BETA** aşamasında olduğu için bazı sorunlar yaşanabilir. Bunun dışında kullanıcı takibi vb. diğer işlemler sorunsuz çalışmaktadır.\n\n📌 **Dipnot:** Yeni sürümü indirmeden önce `login.json` ve çerez (cookie) dosyalarınızı mutlaka yedekleyin. Güncelleme sonrası bu dosyaları yeni sürüm klasörüne atıp **'Hedefteki dosyaları değiştir'** seçeneğini kullanarak çerez ve giriş bilgilerinizi kaybetmeden devam edebilirsiniz."
+  "update_message": "🚀 **3.0.0-BETA Güncellemesi**\n\n🔥 **Yeni Özellikler:**\n• 📦 Paket Yükleyici iyileştirildi.\n• 🌐 Webhook Sistemi Proxy altyapısına geçirildi.\n• 🎫 Ciddi durumlarda otomatik destek bileti açma özelliği eklendi.\n• 🛠️ Genel hata düzeltmeleri yapıldı.\n\n💡 **Not:** Webhook hatası giderildi ancak henüz test edilmedi. Bu nedenle bazı kullanıcılar hata alabilir.\n⚠️ Bu sürüm **BETA** aşamasında olduğu için bazı sorunlar yaşanabilir. Bunun dışında kullanıcı takibi vb. diğer işlemler sorunsuz çalışmaktadır.\n\n📌 **Dipnot:** Yeni sürümü indirmeden önce `login.json` ve çerez (cookie) dosyalarınızı mutlaka yedekleyin. Güncelleme sonrası bu dosyaları yeni sürüm klasörüne atıp **'Hedefteki dosyaları değiştir'** seçeneğini kullanarak çerez ve giriş bilgilerinizi kaybetmeden devam edebilirsiniz. [İndirme Linkine Direkt Gitmek İçin CTRL+Mouse Sol Click Yapınız."
 
 }
+
 
 
