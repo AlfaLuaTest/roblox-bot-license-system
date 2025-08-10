@@ -1,8 +1,8 @@
 {
   "registered_users": [
     {
-      "license_key": "",
-      "hwid": ""
+      "license_key": "PRM-2025-ABC112",
+      "hwid": "HWID-6A42243C3338EF5579F42829"
     },
     {
       "license_key": "PRM-2025-DEF222",
@@ -46,6 +46,7 @@
     }
   ]
 }
+
 
 
 
