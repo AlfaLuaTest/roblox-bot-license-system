@@ -2,9 +2,10 @@
   "webhook_url": "https://discord.com/api/webhooks/1400018731282731121/mlbDxaYi3wOVVnEYD_sqnT3GsBRHEGDdFkSeqs_T5KLnIahLk8_KP32sZJU4JboQjO5A",
   "api_base_url": "https://raw.githubusercontent.com/AlfaLuaTest/roblox-bot-license-system/main/",
   "version": "3.0.1",
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "Güvenlik Açığı Sebebiyle Sistem Bakım Moduna Alınmıştır Tahmini Bekleme Süreniz 1 Saat."
 }
+
 
 
 
